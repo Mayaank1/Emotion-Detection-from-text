@@ -2,6 +2,12 @@
 
 This project aims to create a web application that takes input text from a Next.js website, processes it using Flask, and then provides it to a backend model for emotion detection. The detected emotion is then categorized into joy, shame, guilt, sadness, fear, anger, or disgust, and the relevant emoji is displayed on the website.
 
+## Tech Stack
+-Bi-Directional LSTM(model)
+-Nextjs
+-Tailwind css
+-Flask
+
 ## Requirements
 
 - Node.js
